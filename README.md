@@ -1,10 +1,10 @@
-## 3D-N2V
+# 3D-N2V
 An example of a noise2void network that can be used for 3D data denoising
 
-# Environment
+## Environment
 Python 3.9 and TensorFlow 2.10.
 
-# User guide
+## User guide
 1. Train the n2v model with 'n2v_3D_train.py';
 2. Use the trained model to denoise the data with 'n2v_3D_predict.py';
 
