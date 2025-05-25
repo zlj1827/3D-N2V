@@ -8,3 +8,4 @@ Python 3.9 and TensorFlow 2.10.
 1. Train the n2v model with 'n2v_3D_train.py';
 2. Use the trained model to denoise the data with 'n2v_3D_predict.py';
 
+This work is a 3D application of jug's original N2V. The link to the original N2V is: https://github.com/juglab/n2v
